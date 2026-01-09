@@ -1,0 +1,2 @@
+# -Entropy-Collapse-Information-Saturation-and-Baby-Universe-Genesis-A-Detailed-Mathematical-Model
+Independent research integrating black-hole thermodynamics, quantum information, and early-universe cosmology. Focuses on information-saturation in evaporating black holes triggering baby-universe formation via modified TOV dynamics and the Anas Limit, with predictive modeling and GW/cosmology implications.
