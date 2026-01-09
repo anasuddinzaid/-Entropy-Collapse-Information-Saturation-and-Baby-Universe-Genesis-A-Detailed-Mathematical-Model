@@ -2,24 +2,42 @@ Subject: README — Entropy Collapse, Information Saturation, and Baby-Universe 
 
 # Entropy Collapse, Information Saturation, and Baby-Universe Genesis
 
-### A Conceptual Thermodynamic Cosmology Model for Universe Rebirth via Information Compression Nodes
+### *A Conceptual Thermodynamic Framework for Universe Rebirth Triggered by Information Compression Beyond Stability Thresholds*
 
 **Author:** Anas
-**Category:** Cosmology, Entropy Theory, Universe Genesis Models
+**Repository Category:** Theoretical Cosmology & Entropy Physics
 
 ---
 
-## Theory (Math-Free)
+## 🔥 Theory Summary (Words Only)
 
-This paper argues that:
+This paper proposes a universe-scale cycle where:
 
-* When entropy saturates beyond a universal stability threshold, the system undergoes **information collapse**
-* Collapse nodes act like **compressed seeds of new vibrational expansion**
-* These nodes inflate into **baby universes** if information density exceeds stability limits
-* The arrow of time may be a derived perception of **information decoherence direction**
-* Baby-universe genesis is not mystical but a **thermodynamic inevitability in information-constrained systems**
-* The Big Bang may be conceptually similar to a **phase transition triggered by compression thresholds**
-* Universe death and birth may be linked in a **collapse-expansion causal cycle**
+* **Entropy does not expand forever**
+* It saturates
+* And when it saturates:
+
+  * Information compresses instead of dispersing
+  * Collapse nodes form naturally
+  * These nodes behave like **seeds of new vibrational inflation**
+* The universe’s birth is framed as:
+
+  > **A resonance explosion triggered by information density collapse beyond stability limits**
+* Baby universes are not created by randomness, but by **threshold-based information instability release**
+* Time’s arrow is conceptually modeled as the **direction of information decoherence, not a fundamental axis**
+* Collapse is not the end—it is the **most efficient way for a universe to be born**
+* Big Bang is a **compression-release resonance burst**, not a singular anomaly
+* The parent universe may leave a **field-bias inheritance**, acting like “initial conditions memory”
+* The theory remains academic, non-engineering, and falsifiable only through simulation
+
+---
+
+## Purpose of This Repository
+
+* Academic archive
+* Conceptual cosmology model
+* Authorship anchor
+* Future simulation expansion
 
 ---
 
